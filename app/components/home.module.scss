@@ -131,6 +131,9 @@
   position: absolute;
   right: 0;
   bottom: 18px;
+  svg {
+    fill: var(--black);
+  }
 }
 
 .sidebar-title {
